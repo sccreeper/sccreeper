@@ -6,7 +6,7 @@ I mostly program using Python, but recently I have started to learn C# and Go as
 
  - :pencil: [image2excel](https://github.com/sccreeper/image2excel), a program that converts images and video to Excel spreadsheets. My profile picture was made using it.
 
- - :robot: [pibot](https://github.com/sccreeper/pibot), software for the Raspberry PI which should make making basic robots easier.
+ <!-- - :robot: [pibot](https://github.com/sccreeper/pibot), software for the Raspberry PI which should make making basic robots easier. --->
  - :books: [BetterClasscharts](https://github.com/sccreeper/BetterClasscharts) - A reversed engineered alternative to the ClassCharts app with dark mode.
 
  - :globe_with_meridians: My GitHub Pages [website](https://sccreeper.github.io/).
