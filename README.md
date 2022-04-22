@@ -1,6 +1,6 @@
 ## README
 
-I mostly program using Python, but recently I have started to learn C# and Go as well.
+I mostly program using Python and JS, but recently I have started to learn Go as well.
 
 ### :construction: Projects
 
