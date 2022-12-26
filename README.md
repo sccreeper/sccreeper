@@ -1,6 +1,6 @@
 ## README
 
-I mostly program using Python, but recently I have started to learn C# and Go as well.
+I mostly program using Python and JS but have recently started to learn Go as well.
 
 ### :construction: Projects
 
@@ -8,8 +8,8 @@ I mostly program using Python, but recently I have started to learn C# and Go as
 
  - :robot: [pibot](https://github.com/sccreeper/pibot), software for the Raspberry PI which should make making basic robots easier.
  - :books: [BetterClasscharts](https://github.com/sccreeper/BetterClasscharts) - A reversed engineered alternative to the ClassCharts app with dark mode.
-
- - :globe_with_meridians: My GitHub Pages [website](https://sccreeper.github.io/).
+ - :desktop_computer: [goputer](https://github.com/sccreeper/goputer) - A computer emulator/virtual machine intended to demonstrate how computers work at a low level.
+ - :globe_with_meridians: My Portfolio [website](https://www.oscarcp.net/).
 
  ### :scroll: What languages I use
 
@@ -18,6 +18,6 @@ I mostly program using Python, but recently I have started to learn C# and Go as
  ### What tools I use
 
  - Visual Studio Code
- - Visual Studio
-
-
+ - Cloudflare Pages
+ - Parcel JS
+ - Mage
