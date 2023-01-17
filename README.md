@@ -11,10 +11,6 @@ I mostly program using Python and JS but have recently started to learn Go as we
  - :desktop_computer: [goputer](https://github.com/sccreeper/goputer) - A computer emulator/virtual machine intended to demonstrate how computers work at a low level.
  - :globe_with_meridians: My Portfolio [website](https://www.oscarcp.net/).
 
- ### :scroll: What languages I use
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sccreeper)](https://github.com/anuraghazra/github-readme-stats)
-
  ### What tools I use
 
  - Visual Studio Code
