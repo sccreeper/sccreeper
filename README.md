@@ -13,7 +13,7 @@ I mostly program using Python and JS but have recently started to learn Go as we
 
  ### :scroll: What languages I use
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sccreeper&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sccreeper)](https://github.com/anuraghazra/github-readme-stats)
 
  ### What tools I use
 
